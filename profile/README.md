@@ -2,6 +2,8 @@
 
 ![letsgo](/assets/logo.png)
 
+<a href="https://lets-go-final.netlify.app/" target="_blank">Let's Go deployed Website </a>
+
 Lets Go is an application developed over a 2-week coding spring. Designed for all of the Tour Guides in us to help coordinate a trip with our remote friends.
 
 With the ability to input and track Guests coming, Flights, Lodging, find Entertainment, and count down the days to the Trip, Lets Go allows you to put all your important information in one place.
